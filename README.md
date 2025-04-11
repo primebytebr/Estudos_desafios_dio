@@ -53,7 +53,7 @@ Atualmente estou estudando **Python e Django**, com o objetivo de, no futuro, **
 
 ## 🌍 Localização
 
-📍 Roraima - Brasil 🇧🇷
+📍 Roraima - Brasil
 
 ---
 
