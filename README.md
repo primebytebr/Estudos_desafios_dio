@@ -5,7 +5,6 @@ Minha formação é em **Agronegócios e Agronomia**, e acredito que a tecnologi
 
 Atualmente estou estudando **Python e Django**, com o objetivo de, no futuro, **criar tecnologias que facilitem o dia a dia no agronegócio** e contribuam para um campo mais inteligente e produtivo.
 
----
 
 ## 🧑‍🌾 Formação & Propósito
 
@@ -13,7 +12,6 @@ Atualmente estou estudando **Python e Django**, com o objetivo de, no futuro, **
 🤝 Envolvido em **projetos sociais na minha comunidade**  
 🌾 Buscando unir **tecnologia e agricultura** para transformar realidades
 
----
 
 ## 🛠️ Tecnologias e Ferramentas que estou aprendendo
 
@@ -25,7 +23,6 @@ Atualmente estou estudando **Python e Django**, com o objetivo de, no futuro, **
 
 <br/><br/>
 
----
 
 ## 🌐 Tecnologias de interesse em aprender:
 
@@ -49,13 +46,11 @@ Atualmente estou estudando **Python e Django**, com o objetivo de, no futuro, **
 
 <br/><br/>
 
----
 
 ## 🌍 Localização
 
 📍 Roraima - Brasil
 
----
 
 ## 🚀 Objetivos
 
