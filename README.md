@@ -27,7 +27,7 @@ Atualmente estou estudando **Python e Django**, com o objetivo de, no futuro, **
 
 ---
 
-## 🌐 Tecnologias em foco futuro (interesse):
+## 🌐 Tecnologias de interesse em aprender:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img align="left" alt="AI" title="Artificial Intelligence" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
