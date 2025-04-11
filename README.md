@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o PimeByte! 🌱💻
 
-Sou um entusiasta da tecnologia, curioso por natureza e atualmente **iniciando minha jornada na programação**.  
+Sou um entusiasta da tecnologia, curioso e atualmente **iniciando minha jornada na programação**.  
 Minha formação é em **Agronegócios e Agronomia**, e acredito que a tecnologia pode ser uma grande aliada no desenvolvimento de soluções para o campo.
 
 Atualmente estou estudando **Python e Django**, com o objetivo de, no futuro, **criar tecnologias que facilitem o dia a dia no agronegócio** e contribuam para um campo mais inteligente e produtivo.
